@@ -1,0 +1,4 @@
+
+// This is a global import of all styles, rather than doing a style import
+// in the JSX per-component. This is to support older gulp-sass based projects
+@import './components/Button';
